@@ -1,0 +1,13 @@
+train: custom_dataset/train/  
+val: custom_dataset/val/ 
+
+
+# number of classes
+nc: 5
+
+
+# class names
+names: ['white L', 'white M', 'white S', 'yellow', 'red']
+
+
+
