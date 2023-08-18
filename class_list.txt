@@ -1,0 +1,5 @@
+white L
+white M
+white S
+yellow
+red
